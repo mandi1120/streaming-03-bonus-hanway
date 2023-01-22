@@ -1,0 +1,7 @@
+"['index', 'PatientID', 'age', 'gender', 'bmi', 'bloodpressure', 'diabetic', 'children', 'smoker', 'region', 'claim']"
+"['0', '1', '39.0', 'male', '23.2', '91', 'Yes', '0', 'No', 'southeast', '1121.87']"
+"['1', '2', '24.0', 'male', '30.1', '87', 'No', '0', 'No', 'southeast', '1131.51']"
+"['2', '3', '', 'male', '33.3', '82', 'Yes', '0', 'No', 'southeast', '1135.94']"
+"['3', '4', '', 'male', '33.7', '80', 'No', '0', 'No', 'northwest', '1136.4']"
+"['4', '5', '', 'male', '34.1', '100', 'No', '0', 'No', 'northwest', '1137.01']"
+"['5', '6', '', 'male', '34.4', '96', 'Yes', '0', 'No', 'northwest', '1137.47']"
